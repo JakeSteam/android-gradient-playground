@@ -3,7 +3,6 @@
     <item><shape>
         <solid android:color="@android:color/black" />
     </shape></item>
-
     <item><shape>
         <gradient
             android:type="sweep"
@@ -13,7 +12,6 @@
             android:centerColor="@android:color/transparent"
             android:endColor="@android:color/transparent"/>
     </shape></item>
-
     <item><shape>
         <gradient
             android:type="sweep"
@@ -23,7 +21,6 @@
             android:centerColor="@android:color/transparent"
             android:endColor="@android:color/transparent"/>
     </shape></item>
-
     <item><shape>
         <gradient
             android:type="sweep"
@@ -33,7 +30,6 @@
             android:centerColor="@android:color/transparent"
             android:endColor="@android:color/transparent"/>
     </shape></item>
-
     <item><shape>
         <gradient
             android:type="sweep"
@@ -43,7 +39,6 @@
             android:centerColor="@android:color/transparent"
             android:endColor="@android:color/transparent"/>
     </shape></item>
-
     <item><shape>
         <gradient
             android:type="sweep"

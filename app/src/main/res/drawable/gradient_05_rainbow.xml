@@ -3,7 +3,6 @@
     <item><shape>
         <solid android:color="@android:color/white" />
     </shape></item>
-
     <item><shape>
         <gradient
             android:startColor="@android:color/holo_purple"
@@ -12,7 +11,6 @@
             android:centerY="0.4"
             />
     </shape></item>
-
     <item><shape>
         <gradient
             android:startColor="@android:color/transparent"
@@ -21,7 +19,6 @@
             android:centerY="0.4"
             />
     </shape></item>
-
     <item><shape>
         <gradient
             android:startColor="@android:color/transparent"
@@ -30,13 +27,11 @@
             android:centerY="0.7"
             />
     </shape></item>
-
     <item><shape>
         <gradient
             android:startColor="@android:color/transparent"
             android:centerColor="@android:color/transparent"
             android:endColor="@android:color/holo_green_dark"
-
             />
     </shape></item>
 </layer-list>
